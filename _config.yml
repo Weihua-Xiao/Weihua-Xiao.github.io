@@ -143,7 +143,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 : "/images/profile.jpg"
+og_image                 : "profile.jpg"
 og_description           : "Weihua Xiao — LLM-aided EDA, logic synthesis, and approximate computing."
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles

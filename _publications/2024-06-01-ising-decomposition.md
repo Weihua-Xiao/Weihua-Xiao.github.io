@@ -5,7 +5,7 @@ category: conferences
 permalink: /publication/ising-approximate-decomposition
 date: 2024-06-01
 venue: "ACM/IEEE Design Automation Conference (DAC)"
-excerpt: "**Weihua Xiao***, Tingting Zhang*, Xingyue Qian, Jie Han, and Weikang Qian. *Equal contribution."
+excerpt: "**Weihua Xiao**<sup>*</sup>, Tingting Zhang<sup>*</sup>, Xingyue Qian, Jie Han, and Weikang Qian. <sup>*</sup>Equal contribution."
 ---
 
 An Ising-model-based method for efficient approximate disjoint decomposition.

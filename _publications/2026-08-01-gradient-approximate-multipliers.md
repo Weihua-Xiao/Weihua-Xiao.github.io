@@ -5,7 +5,7 @@ category: preprints
 permalink: /publication/gradient-estimation-approximate-multipliers
 date: 2026-08-01
 venue: "Under review"
-excerpt: "Chang Meng, **Weihua Xiao#**, Wayne Burleson, and Giovanni De Micheli. #Corresponding author."
+excerpt: "Chang Meng, **Weihua Xiao**<sup>#</sup>, Wayne Burleson, and Giovanni De Micheli. <sup>#</sup>Corresponding author."
 ---
 
 Gradient estimation for retraining deep learning models with approximate multipliers.
