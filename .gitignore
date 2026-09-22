@@ -1,0 +1,3 @@
+# Keep the original uncompressed portrait locally; deploy the optimized JPEG.
+assets/images/weihua-xiao.png
+.DS_Store
