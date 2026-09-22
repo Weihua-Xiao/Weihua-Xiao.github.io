@@ -1,25 +1,16 @@
-# FCHXWH823.github.io
+# Weihua Xiao — Academic Homepage
 
-Personal academic website for Weihua Xiao, built as a dependency-free static site for GitHub Pages.
+Personal academic website for Weihua Xiao, hosted at [FCHXWH823.github.io](https://FCHXWH823.github.io).
 
-## Preview locally
+The site uses the [Academic Pages](https://github.com/academicpages/academicpages.github.io) Jekyll template.
 
-From this directory, run:
+## Updating the site
 
-```bash
-python3 -m http.server 8000
-```
+- Profile and site settings: `_config.yml`
+- Homepage: `_pages/about.md`
+- Research overview: `_pages/research.md`
+- Publications: `_publications/`
+- Teaching: `_teaching/`
+- CV: `files/Weihua_Xiao_CV.pdf`
 
-Then open `http://localhost:8000`.
-
-## Publish
-
-Create the GitHub repository `FCHXWH823/FCHXWH823.github.io`, push the contents of this directory to its `main` branch, and enable GitHub Pages from the repository settings if it is not enabled automatically.
-
-## Update content
-
-- Main page: `index.html`
-- Visual styles: `assets/styles.css`
-- Interactions: `assets/main.js`
-- CV download: `assets/files/Weihua_Xiao_CV.pdf`
-- Portrait and project image: `assets/images/`
+GitHub Pages rebuilds the site automatically after changes are pushed to `main`.

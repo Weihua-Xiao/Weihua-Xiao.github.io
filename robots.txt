@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://FCHXWH823.github.io/sitemap.xml
