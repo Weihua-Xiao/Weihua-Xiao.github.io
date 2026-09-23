@@ -25,6 +25,7 @@ Selected Highlights
 - **TrojanLoC**: an LLM-based framework for RTL Trojan detection, classification, and line-level localization (ICCAD 2026).
 - **VeriThoughts**: reasoning models and formal verification for automated Verilog generation (NeurIPS 2025).
 - **Hybrid-NL2SVA**: RAG and fine-tuning for natural-language-to-SystemVerilog assertion generation (MLCAD 2025).
+- **[GUIDE](/guide/)**: an open, modular platform for GenAI-driven digital design education (DATE 2026).
 - **MiniTNtk**: SAT-based exact synthesis for minimizing transistor networks (ICCAD 2023).
 
 Please see my [publications](/publications/), [research overview](/research/), [service and honors](/service/), or [download my CV](/files/Weihua_Xiao_CV.pdf) for more information.

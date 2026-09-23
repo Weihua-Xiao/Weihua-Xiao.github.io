@@ -11,6 +11,9 @@ main:
   - title: "Research"
     url: /research/
 
+  - title: "GUIDE"
+    url: /guide/
+
   - title: "Publications"
     url: /publications/
 
