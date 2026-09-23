@@ -12,13 +12,13 @@ redirect_from:
 Education and Appointments
 ======
 
-- **Postdoctoral Researcher**, New York University, 2024–present  
+- **Postdoctoral Researcher**, New York University, August 2024–present<br>
   Advisor: Ramesh Karri
-- **Ph.D. in Electronic Science and Technology**, Shanghai Jiao Tong University, 2019–2024
+- **Ph.D. in Electronic Science and Technology**, Shanghai Jiao Tong University, September 2019–June 2024<br>
   Advisor: Weikang Qian
-- **Visiting Scholar**, University of Alberta, 2023  
+- **Visiting Scholar**, University of Alberta, January–December 2023<br>
   Advisor: Jie Han
-- **B.Eng. in Communication Engineering**, Xidian University, 2015–2019
+- **B.Eng. in Communication Engineering**, Xidian University, October 2015–June 2019
 
 Research Interests
 ======

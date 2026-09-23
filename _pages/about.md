@@ -7,9 +7,17 @@ redirect_from:
   - /about.html
 ---
 
-I am a Postdoctoral Researcher at **New York University**, advised by Prof. Ramesh Karri. My current research lies at the intersection of **large language models and electronic design automation (LLM4EDA)**, with a focus on RTL generation, formal verification, hardware security, and design-space exploration.
+I am a Postdoctoral Researcher at **New York University** (August 2024–present), advised by Prof. Ramesh Karri. My current research lies at the intersection of **large language models and electronic design automation (LLM4EDA)**, with a focus on RTL generation, formal verification, hardware security, and design-space exploration.
 
-Before joining NYU, I received my Ph.D. in Electronic Science and Technology from **Shanghai Jiao Tong University** under the supervision of Prof. Weikang Qian. During my Ph.D., my research focused on **approximate computing for energy-efficient hardware** and **logic and transistor-level synthesis**, including approximate multiplier optimization, approximate logic decomposition, symbolic probability propagation, and exact transistor-network synthesis. I was also a visiting scholar at the University of Alberta with Prof. Jie Han.
+Before joining NYU, I received my Ph.D. in Electronic Science and Technology from **Shanghai Jiao Tong University** (September 2019–June 2024) under the supervision of Prof. Weikang Qian. During my Ph.D., my research focused on **approximate computing for energy-efficient hardware** and **logic and transistor-level synthesis**, including approximate multiplier optimization, approximate logic decomposition, symbolic probability propagation, and exact transistor-network synthesis. I was also a visiting scholar at the **University of Alberta** (January–December 2023) with Prof. Jie Han.
+
+Education & Appointments
+======
+
+- **Postdoctoral Researcher**, New York University — August 2024–present
+- **Ph.D. in Electronic Science and Technology**, Shanghai Jiao Tong University — September 2019–June 2024
+- **Visiting Scholar**, University of Alberta — January–December 2023
+- **B.Eng. in Communication Engineering**, Xidian University — October 2015–June 2019
 
 Research Interests
 ======

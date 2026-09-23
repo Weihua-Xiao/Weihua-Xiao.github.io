@@ -56,15 +56,15 @@ Before a unit is added to GUIDE, it should satisfy four requirements:
 GUIDE-Driven Courses
 ======
 
-### GUIDE4ChipDesign I
+### GUIDE4ChipDesign I — Fall 2025
 
 This 14-week course introduces LLM-aided RTL generation, simulation-based verification, assertion generation, and hardware-security awareness. Twenty-five students completed the course; the final scores averaged **92.9/100**, and **80%** of the students scored at least 90.
 
-### GUIDE4ChipDesign II
+### GUIDE4ChipDesign II — Spring 2026
 
 The second course moves from individual units to team-based projects and full implementations, including FPGA deployment. Thirteen two-student teams proposed and developed their own projects using GUIDE-based design, verification, and security workflows.
 
-### GUIDE4HardwareSecurity
+### GUIDE4HardwareSecurity — Spring 2026
 
 This course combines foundational RTL generation with GenAI-assisted hardware attacks and defenses. An offering at Rensselaer Polytechnic Institute enrolled **34 undergraduate and graduate students** and used team projects to connect structured learning units with open-ended attack-and-defense workflows.
 
