@@ -8,7 +8,7 @@ author_profile: true
 Selected Honors & Achievements
 ======
 
-- **Google Cloud Research Credits Program ($5,000)**, 2026
+- **Google Cloud Research Credits Program ($5,000)** for CoEvoP&R, 2026
 - **Full Membership** in *Sigma Xi, The Scientific Research Honor Society*, 2026
 - DATE 2026 Young People Programme, 2026
 - CCF Integrated Circuit Design Thesis Incentive Program (**Nomination**), 2025

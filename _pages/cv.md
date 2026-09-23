@@ -28,7 +28,7 @@ LLM-aided EDA, RTL generation and verification, hardware security, logic synthes
 Selected Honors & Achievements
 ======
 
-- Google Cloud Research Credits Program ($5,000), 2026
+- Google Cloud Research Credits Program ($5,000) for CoEvoP&R, 2026
 - Full Membership, Sigma Xi, 2026
 - DATE Young People Programme, 2026
 - CCF Integrated Circuit Design Thesis Incentive Program nomination, 2025

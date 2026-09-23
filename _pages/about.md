@@ -30,6 +30,7 @@ Research Interests
 Selected Highlights
 ======
 
+- **CoEvoP&R**: co-evolving placement objectives with routing feedback via large language models (ASP-DAC 2027).
 - **TrojanLoC**: an LLM-based framework for RTL Trojan detection, classification, and line-level localization (ICCAD 2026).
 - **VeriThoughts**: reasoning models and formal verification for automated Verilog generation (NeurIPS 2025).
 - **Hybrid-NL2SVA**: RAG and fine-tuning for natural-language-to-SystemVerilog assertion generation (MLCAD 2025).
@@ -41,6 +42,8 @@ Please see my [publications](/publications/), [research overview](/research/), [
 News
 ======
 
+- **2026:** CoEvoP&R was accepted at ASP-DAC 2027.
+- **2026:** CoEvoP&R was selected for the **Google Cloud Research Credits Program ($5,000)**.
 - **2026:** TrojanLoC was accepted as a regular paper at ICCAD 2026.
 - **2026:** GUIDE and LLM4PQC appeared at DATE 2026.
 - **2025:** VeriThoughts was accepted at NeurIPS 2025.
