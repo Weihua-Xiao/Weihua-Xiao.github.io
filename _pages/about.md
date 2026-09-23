@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a Postdoctoral Researcher at **New York University**, advised by Prof. Ramesh Karri and Prof. Siddharth Garg. My research lies at the intersection of **large language models and electronic design automation (LLM4EDA)**, with a focus on RTL generation, formal verification, hardware security, and design-space exploration.
+I am a Postdoctoral Researcher at **New York University**, advised by Prof. Ramesh Karri. My current research lies at the intersection of **large language models and electronic design automation (LLM4EDA)**, with a focus on RTL generation, formal verification, hardware security, and design-space exploration.
 
-Before joining NYU, I received my Ph.D. in Electronic Science and Technology from the University of Michigan–Shanghai Jiao Tong University Joint Institute under the supervision of Prof. Weikang Qian. I was also a visiting scholar at the University of Alberta with Prof. Jie Han.
+Before joining NYU, I received my Ph.D. in Electronic Science and Technology from **Shanghai Jiao Tong University** under the supervision of Prof. Weikang Qian. During my Ph.D., my research focused on **approximate computing for energy-efficient hardware** and **logic and transistor-level synthesis**, including approximate multiplier optimization, approximate logic decomposition, symbolic probability propagation, and exact transistor-network synthesis. I was also a visiting scholar at the University of Alberta with Prof. Jie Han.
 
 Research Interests
 ======
@@ -27,7 +27,7 @@ Selected Highlights
 - **Hybrid-NL2SVA**: RAG and fine-tuning for natural-language-to-SystemVerilog assertion generation (MLCAD 2025).
 - **MiniTNtk**: SAT-based exact synthesis for minimizing transistor networks (ICCAD 2023).
 
-Please see my [publications](/publications/), [research overview](/research/), or [download my CV](/files/Weihua_Xiao_CV.pdf) for more information.
+Please see my [publications](/publications/), [research overview](/research/), [service and honors](/service/), or [download my CV](/files/Weihua_Xiao_CV.pdf) for more information.
 
 News
 ======

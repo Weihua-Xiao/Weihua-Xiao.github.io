@@ -13,8 +13,8 @@ Education and Appointments
 ======
 
 - **Postdoctoral Researcher**, New York University, 2024–present  
-  Advisors: Ramesh Karri and Siddharth Garg
-- **Ph.D. in Electronic Science and Technology**, University of Michigan–Shanghai Jiao Tong University Joint Institute, 2019–2024  
+  Advisor: Ramesh Karri
+- **Ph.D. in Electronic Science and Technology**, Shanghai Jiao Tong University, 2019–2024
   Advisor: Weikang Qian
 - **Visiting Scholar**, University of Alberta, 2023  
   Advisor: Jie Han
@@ -25,7 +25,7 @@ Research Interests
 
 LLM-aided EDA, RTL generation and verification, hardware security, logic synthesis, and approximate computing.
 
-Selected Honors
+Selected Honors & Achievements
 ======
 
 - Google Cloud Research Credits Program ($5,000), 2026
@@ -38,5 +38,18 @@ Professional Service
 ======
 
 - Session Co-Chair, ICCAD 2026
-- Technical Program Committee: DATE 2027; ICCAD 2025–2026; ICCD 2025
 - Reviewer: DAC, ICCAD, DATE, TCAD, TVLSI, and JCST
+
+Academic Activity Organization
+======
+
+- AI-based Hardware Attacks (AHA!) Challenge at IEEE HOST 2026, May 2026
+- GREAT Workshop (Gen-AI Red-Team Evaluation of Microelectronics Assurance and Trust) at DAC 2026, July 2026
+- Session Co-Chair, IEEE/ACM International Conference on Computer-Aided Design (ICCAD), 2026
+
+Technical Program Committee Member
+======
+
+- Design, Automation and Test in Europe Conference (DATE): 2027
+- IEEE/ACM International Conference on Computer-Aided Design (ICCAD): 2026, 2025
+- IEEE International Conference on Computer Design (ICCD): 2025
