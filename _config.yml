@@ -13,10 +13,10 @@ title                    : "Weihua Xiao"
 title_separator          : "-"
 name                     : &name "Weihua Xiao"
 description              : &description "Weihua Xiao's academic homepage: LLM-aided EDA, logic synthesis, and approximate computing."
-url                      : https://FCHXWH823.github.io
+url                      : https://Weihua-Xiao.github.io
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "FCHXWH823/FCHXWH823.github.io"
+repository               : "Weihua-Xiao/Weihua-Xiao.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
