@@ -87,6 +87,19 @@
     width: 300px;
     max-width: 100%;
     min-height: 147px;
+
+    .mapmyvisitors-visitors,
+    .mapmyvisitors-date,
+    .mapmyvisitors-bottom-text,
+    .jvectormap-zoomin,
+    .jvectormap-zoomout {
+      display: none !important;
+    }
+
+    .jvectormap-marker {
+      fill: #e53935 !important;
+      stroke: #fff !important;
+    }
   }
 }
 
