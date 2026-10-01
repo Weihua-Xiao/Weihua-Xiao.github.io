@@ -96,8 +96,16 @@
       display: none !important;
     }
 
-    .mapmyvisitors-map {
-      background-image: none !important;
+    .mapmyvisitors-map::after {
+      content: "";
+      position: absolute;
+      left: 0;
+      bottom: 0;
+      z-index: 2;
+      width: 24px;
+      height: 40px;
+      background: #2d78ad;
+      pointer-events: none;
     }
 
     .jvectormap-marker {
