@@ -96,9 +96,14 @@
       display: none !important;
     }
 
+    .mapmyvisitors-map {
+      background-image: none !important;
+    }
+
     .jvectormap-marker {
       fill: #e53935 !important;
       stroke: #fff !important;
+      r: 6px !important;
     }
   }
 }
