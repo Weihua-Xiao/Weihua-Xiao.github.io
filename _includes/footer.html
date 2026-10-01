@@ -41,11 +41,16 @@
           var seen = {};
 
           markers.forEach(function (marker) {
-            var x = marker.getAttribute("cx");
-            var y = marker.getAttribute("cy");
+            var rawX = Number(marker.getAttribute("cx"));
+            var rawY = Number(marker.getAttribute("cy"));
+            var matrix = marker.getCTM();
+            var x = matrix ? matrix.a * rawX + matrix.c * rawY + matrix.e : rawX;
+            var y = matrix ? matrix.b * rawX + matrix.d * rawY + matrix.f : rawY;
+            x = x.toFixed(2);
+            y = y.toFixed(2);
             var key = x + "," + y;
 
-            if (x && y && !seen[key]) {
+            if (!seen[key]) {
               seen[key] = true;
               points.push({ x: x, y: y });
             }
