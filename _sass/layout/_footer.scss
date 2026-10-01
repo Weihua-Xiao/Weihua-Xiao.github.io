@@ -70,6 +70,32 @@
   font-size: $type-size-7;
 }
 
+.page__footer-visitor-map {
+  margin: 0.5rem 0 0.9rem;
+
+  .visitor-map__label {
+    display: block;
+    margin-bottom: 0.35rem;
+    font-family: $sans-serif-narrow;
+    font-size: $type-size-7;
+    font-weight: bold;
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+  }
+
+  a {
+    display: inline-block;
+    line-height: 0;
+  }
+
+  img {
+    display: block;
+    width: 250px;
+    max-width: 100%;
+    height: auto;
+  }
+}
+
 .page__footer-follow {
   ul {
     margin: 0;
