@@ -26,26 +26,70 @@
     <script>
       (function () {
         var container = document.currentScript.parentElement;
+        var renderQueued = false;
 
-        function normalizeVisitorDots() {
-          var rootGroup = container.querySelector(".jvectormap-container svg > g");
-          if (rootGroup && rootGroup.hasAttribute("transform")) {
-            rootGroup.removeAttribute("transform");
+        function renderVisitorDots() {
+          renderQueued = false;
+          var map = container.querySelector(".mapmyvisitors-map");
+          var markers = Array.prototype.slice.call(
+            container.querySelectorAll(".jvectormap-marker")
+          );
+
+          if (!map || !markers.length) return;
+
+          var points = [];
+          var seen = {};
+
+          markers.forEach(function (marker) {
+            var x = marker.getAttribute("cx");
+            var y = marker.getAttribute("cy");
+            var key = x + "," + y;
+
+            if (x && y && !seen[key]) {
+              seen[key] = true;
+              points.push({ x: x, y: y });
+            }
+          });
+
+          var signature = points.map(function (point) {
+            return point.x + "," + point.y;
+          }).join("|");
+          var overlay = map.querySelector(".visitor-map__dots");
+
+          if (overlay && overlay.getAttribute("data-points") === signature) return;
+
+          if (!overlay) {
+            overlay = document.createElementNS("http://www.w3.org/2000/svg", "svg");
+            overlay.setAttribute("class", "visitor-map__dots");
+            overlay.setAttribute("viewBox", "0 0 300 147");
+            overlay.setAttribute("aria-hidden", "true");
+            map.appendChild(overlay);
           }
 
-          container.querySelectorAll(".jvectormap-marker").forEach(function (marker) {
-            marker.setAttribute("fill", "#e53935");
-            marker.setAttribute("stroke", "#ffffff");
-            marker.setAttribute("r", "6");
+          while (overlay.firstChild) overlay.removeChild(overlay.firstChild);
+          overlay.setAttribute("data-points", signature);
+
+          points.forEach(function (point) {
+            var dot = document.createElementNS("http://www.w3.org/2000/svg", "circle");
+            dot.setAttribute("cx", point.x);
+            dot.setAttribute("cy", point.y);
+            dot.setAttribute("r", "5");
+            overlay.appendChild(dot);
           });
         }
 
-        new MutationObserver(normalizeVisitorDots).observe(container, {
+        function queueRender() {
+          if (renderQueued) return;
+          renderQueued = true;
+          window.requestAnimationFrame(renderVisitorDots);
+        }
+
+        new MutationObserver(queueRender).observe(container, {
           childList: true,
           subtree: true
         });
-        window.addEventListener("resize", normalizeVisitorDots);
-        normalizeVisitorDots();
+        window.addEventListener("resize", queueRender);
+        queueRender();
       }());
     </script>
     <noscript>Visitor map requires JavaScript.</noscript>
