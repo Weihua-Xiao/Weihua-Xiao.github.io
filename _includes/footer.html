@@ -92,6 +92,8 @@
         }
 
         new MutationObserver(queueRender).observe(container, {
+          attributes: true,
+          attributeFilter: ["cx", "cy", "transform"],
           childList: true,
           subtree: true
         });
