@@ -23,6 +23,31 @@
   <span class="visitor-map__label">Visitor Map</span>
   <div class="visitor-map__widget">
     <script type="text/javascript" id="mapmyvisitors" src="https://mapmyvisitors.com/map.js?d=VhFlBo0lGIQLlW0DWLfta5fMG5kVcl88MVy6SsV1Tl0&amp;cl=ffffff&amp;w=a&amp;t=n"></script>
+    <script>
+      (function () {
+        var container = document.currentScript.parentElement;
+
+        function normalizeVisitorDots() {
+          var rootGroup = container.querySelector(".jvectormap-container svg > g");
+          if (rootGroup && rootGroup.hasAttribute("transform")) {
+            rootGroup.removeAttribute("transform");
+          }
+
+          container.querySelectorAll(".jvectormap-marker").forEach(function (marker) {
+            marker.setAttribute("fill", "#e53935");
+            marker.setAttribute("stroke", "#ffffff");
+            marker.setAttribute("r", "6");
+          });
+        }
+
+        new MutationObserver(normalizeVisitorDots).observe(container, {
+          childList: true,
+          subtree: true
+        });
+        window.addEventListener("resize", normalizeVisitorDots);
+        normalizeVisitorDots();
+      }());
+    </script>
     <noscript>Visitor map requires JavaScript.</noscript>
   </div>
 </div>
