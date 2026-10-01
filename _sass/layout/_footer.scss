@@ -83,16 +83,10 @@
     text-transform: uppercase;
   }
 
-  a {
-    display: inline-block;
-    line-height: 0;
-  }
-
-  img {
-    display: block;
-    width: 250px;
+  .visitor-map__widget {
+    width: 300px;
     max-width: 100%;
-    height: auto;
+    min-height: 147px;
   }
 }
 
