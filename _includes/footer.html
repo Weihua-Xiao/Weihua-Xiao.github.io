@@ -43,7 +43,9 @@
           markers.forEach(function (marker) {
             var rawX = Number(marker.getAttribute("cx"));
             var rawY = Number(marker.getAttribute("cy"));
-            var matrix = marker.getCTM();
+            var group = marker.closest("g[transform]");
+            var transform = group && group.transform.baseVal.consolidate();
+            var matrix = transform ? transform.matrix : marker.getCTM();
             var x = matrix ? matrix.a * rawX + matrix.c * rawY + matrix.e : rawX;
             var y = matrix ? matrix.b * rawX + matrix.d * rawY + matrix.f : rawY;
             x = x.toFixed(2);
