@@ -43,6 +43,16 @@
   }
 }
 
+.page__title-link {
+  color: inherit;
+  text-decoration: none;
+
+  &:hover,
+  &:focus {
+    text-decoration: underline;
+  }
+}
+
 .page__lead {
   font-family: $global-font-family;
   font-size: $type-size-4;

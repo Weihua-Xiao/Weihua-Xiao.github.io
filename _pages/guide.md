@@ -1,6 +1,7 @@
 ---
 layout: archive
 title: "GUIDE: GenAI Units In Digital Design Education"
+title_link: "https://github.com/GUIDE-EDA/GUIDE"
 permalink: /guide/
 author_profile: true
 ---
