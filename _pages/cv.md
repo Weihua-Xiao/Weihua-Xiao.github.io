@@ -12,7 +12,9 @@ redirect_from:
 Education and Appointments
 ======
 
-- **Postdoctoral Researcher**, New York University, August 2024–present<br>
+- **Postdoctoral Researcher**, The University of Texas at Austin, November 2026–present<br>
+  Advisor: David Z. Pan
+- **Postdoctoral Researcher**, New York University, August 2024–October 2026<br>
   Advisor: Ramesh Karri
 - **Ph.D. in Electronic Science and Technology**, Shanghai Jiao Tong University, September 2019–June 2024<br>
   Advisor: Weikang Qian

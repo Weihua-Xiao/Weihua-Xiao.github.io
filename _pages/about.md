@@ -7,14 +7,15 @@ redirect_from:
   - /about.html
 ---
 
-I am a Postdoctoral Researcher at **New York University** (August 2024–present), advised by Prof. Ramesh Karri. My current research lies at the intersection of **large language models and electronic design automation (LLM4EDA)**, with a focus on RTL generation, formal verification, hardware security, and design-space exploration.
+I am a Postdoctoral Researcher at **The University of Texas at Austin** (November 2026–present), advised by Prof. David Z. Pan. My current research focuses on **large language model (LLM)-aided electronic design automation (EDA)**, including LLM-driven design generation, optimization, verification, and design-space exploration.
 
-Before joining NYU, I received my Ph.D. in Electronic Science and Technology from **Shanghai Jiao Tong University** (September 2019–June 2024) under the supervision of Prof. Weikang Qian. During my Ph.D., my research focused on **approximate computing for energy-efficient hardware** and **logic and transistor-level synthesis**, including approximate multiplier optimization, approximate logic decomposition, symbolic probability propagation, and exact transistor-network synthesis. I was also a visiting scholar at the **University of Alberta** (January–December 2023) with Prof. Jie Han.
+Previously, I was a Postdoctoral Researcher at **New York University** (August 2024–October 2026), advised by Prof. Ramesh Karri. I received my Ph.D. in Electronic Science and Technology from **Shanghai Jiao Tong University** (September 2019–June 2024) under the supervision of Prof. Weikang Qian. During my Ph.D., my research focused on **approximate computing for energy-efficient hardware** and **logic and transistor-level synthesis**, including approximate multiplier optimization, approximate logic decomposition, symbolic probability propagation, and exact transistor-network synthesis. I was also a visiting scholar at the **University of Alberta** (January–December 2023) with Prof. Jie Han.
 
 Education & Appointments
 ======
 
-- **Postdoctoral Researcher**, New York University — August 2024–present
+- **Postdoctoral Researcher**, The University of Texas at Austin — November 2026–present
+- **Postdoctoral Researcher**, New York University — August 2024–October 2026
 - **Ph.D. in Electronic Science and Technology**, Shanghai Jiao Tong University — September 2019–June 2024
 - **Visiting Scholar**, University of Alberta — January–December 2023
 - **B.Eng. in Communication Engineering**, Xidian University — October 2015–June 2019
