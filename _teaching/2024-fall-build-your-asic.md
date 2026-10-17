@@ -6,6 +6,9 @@ permalink: /teaching/build-your-asic
 venue: "New York University"
 date: 2024-09-01
 location: "New York, United States"
+link: "https://github.com/GUIDE-EDA/GUIDE"
 ---
 
 Undergraduate course covering the practical workflow from RTL design through ASIC implementation.
+
+Course materials: [GUIDE](https://github.com/GUIDE-EDA/GUIDE)
