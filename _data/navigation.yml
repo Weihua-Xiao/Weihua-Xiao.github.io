@@ -12,7 +12,7 @@ main:
     url: /research/
 
   - title: "GUIDE"
-    url: /guide/
+    url: https://github.com/GUIDE-EDA/GUIDE
 
   - title: "Publications"
     url: /publications/
