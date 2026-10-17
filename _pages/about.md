@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Postdoctoral Researcher at **The University of Texas at Austin** (November 2026–present), advised by Prof. David Z. Pan. My current research focuses on **large language model (LLM)-aided electronic design automation (EDA)**, including LLM-driven design generation, optimization, verification, and design-space exploration.
+I am a Postdoctoral Researcher at **The University of Texas at Austin** (November 2026–present), advised by Prof. David Z. Pan, Fellow of ACM, IEEE, and SPIE and holder of the Silicon Labs Endowed Chair. My current research focuses on **large language model (LLM)-aided electronic design automation (EDA)**, including LLM-driven design generation, optimization, verification, and design-space exploration.
 
 Previously, I was a Postdoctoral Researcher at **New York University** (August 2024–October 2026), advised by Prof. Ramesh Karri. I received my Ph.D. in Electronic Science and Technology from **Shanghai Jiao Tong University** (September 2019–June 2024) under the supervision of Prof. Weikang Qian. During my Ph.D., my research focused on **approximate computing for energy-efficient hardware** and **logic and transistor-level synthesis**, including approximate multiplier optimization, approximate logic decomposition, symbolic probability propagation, and exact transistor-network synthesis. I was also a visiting scholar at the **University of Alberta** (January–December 2023) with Prof. Jie Han.
 
