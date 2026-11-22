@@ -1,6 +1,6 @@
 # Weihua Xiao — Academic Homepage
 
-Personal academic website for Weihua Xiao, hosted at [[FCHXWH823.github.io](https://FCHXWH823.github.io)](https://weihua-xiao.github.io/).
+Personal academic website for Weihua Xiao, hosted at (https://weihua-xiao.github.io/).
 
 The site uses the [Academic Pages](https://github.com/academicpages/academicpages.github.io) Jekyll template.
 
