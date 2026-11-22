@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-[Download the full CV (PDF)](/files/Weihua_Xiao_CV.pdf)
+[Download the full CV (PDF)](/files/Weihua_Xiao_CV.pdf?v=2026-11-22)
 
 Education and Appointments
 ======
