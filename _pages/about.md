@@ -38,7 +38,7 @@ Selected Highlights
 - **[GUIDE](/guide/)**: an open, modular platform for GenAI-driven digital design education (DATE 2026).
 - **MiniTNtk**: SAT-based exact synthesis for minimizing transistor networks (ICCAD 2023).
 
-Please see my [publications](/publications/), [research overview](/research/), [service and honors](/service/), or [download my CV](/files/Weihua_Xiao_CV.pdf?v=2026-11-23) for more information.
+Please see my [publications](/publications/), [research overview](/research/), [service and honors](/service/), or [download my CV](/files/Weihua_Xiao_CV.pdf?v=2026-11-23-2) for more information.
 
 News
 ======
